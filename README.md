@@ -1,4 +1,4 @@
-## Agnos_AI_Dashboard_Automate_Testing
+## Agnos AI Dashboard Automate Testing
 This repository contains end-to-end automated test scripts for the Agnos AI Dashboard using Playwright.
 
 ### IDE
